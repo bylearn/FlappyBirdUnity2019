@@ -5,7 +5,7 @@ Feito para o **curso gratuito** em vídeo disponibilizado em https://bylearn.com
 
 O curso também acompanha uma apostila ensinando o passo a passo da construção :)  
 
-Nossas redes sociais:  
+**Nossas redes sociais: **   
 Central do Aluno Facebook: https://www.facebook.com/groups/bylearn/  
 Central do Aluno Telegram: http://bit.ly/ByLearnTelegram  
 Central do Aluno Discord: https://discord.gg/rXAyaxM  
