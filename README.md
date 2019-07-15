@@ -13,7 +13,7 @@ Site: https://www.bylearn.com.br
 Blog: https://blog.bylearn.com.br  
 Facebook: https://www.facebook.com/bylearn  
 Instagram: https://www.instagram.com/bylearn/  
-GitHub: https://github.com/bylearn  	
+GitHub: https://github.com/bylearn  
 Twitter: https://twitter.com/ByLearnCursos  
 LinkedIn: https://www.linkedin.com/in/bylearn/  
 
